@@ -1,5 +1,11 @@
-# docker_api_vul
-docker 未授权访问漏洞利用脚本
+# docker 未授权访问漏洞利用脚本
+
+    基于docker_api_vul修复镜像不存在之bug,有时间考虑实现将镜像查找与镜像利用结合利用。
+
+    Tycx2ry/docker_api_vul: docker 未授权访问漏洞利用脚本
+
+    https://github.com/Tycx2ry/docker_api_vul
+
 
 ##安装类库
 
